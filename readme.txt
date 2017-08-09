@@ -1,1 +1,1 @@
-git is a distrubited version control
+no such a dicky cdicky s
