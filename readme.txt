@@ -1,1 +1,1 @@
-fuck is a fuck
+git is a distrubited version control
